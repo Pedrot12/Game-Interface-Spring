@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GameInterfaceApplication {
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(GameInterfaceApplication.class, args);
 	}
